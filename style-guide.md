@@ -16,6 +16,7 @@ The designs were created to the following widths:
 #### Text
 
 - Purple 300 (sub-heading at the top of the app UI): hsl(276, 100%, 81%)
+
 - Purple 600 (chat on the left): hsl(276, 55%, 52%)
 - Gray 500 (chat on the right, paragraph): hsl(270, 7%, 64%)
 - Gray 300 (placeholder text): hsl(206, 6%, 79%)
