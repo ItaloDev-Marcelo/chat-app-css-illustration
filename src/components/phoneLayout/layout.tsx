@@ -12,7 +12,8 @@ const Layout = () => {
          <div className='bg-gray-100 w-55 h-111.25 rounded-3xl shadow shadow-gray-300'>
             <div className='w-full h-14.25 relative rounded-t-2xl rounded-b-md bg-linear-to-b from-[#C84DFF] to-[#8E39FF]'>
                <div className='bg-white w-34 h-7 rounded-full absolute -top-3 z-100 left-10'></div>
-               <div className='flex flex-row justify-between px-3 pt-6'>
+               <div className='flex flex-row justify-between px-3 pt-6
+               '>
                   <div className='flex flex-row gap-2 justify-center items-center'>
                      <p className='text-white font-light'><strong>ᚲ</strong></p>
                      <FormatedImages img={Avatar} IsRouded={false} alt='profile-image samuel Green' />
